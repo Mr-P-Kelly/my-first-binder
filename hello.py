@@ -1,7 +1,6 @@
 import numpy as np
 from turtle import Screen, Turtle
 
-
 ITERATIONS = 10                       # total number of iterations
 ROOT_COLOUR = np.array([129, 59, 9]) # root branch colour
 LEAF_COLOUR = np.array([0, 255, 127])# leaf colour
